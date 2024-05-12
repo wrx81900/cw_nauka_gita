@@ -1,3 +1,3 @@
 # cw_nauka_gita
 
-Repozytorium do nauki gita
+Repository to learn basics of `git`.
